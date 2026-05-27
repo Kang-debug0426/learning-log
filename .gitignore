@@ -1,0 +1,21 @@
+# Windows / 编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Python（以后可能在这儿放小脚本）
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# 临时文件
+*.log
+*.tmp
+*.bak
+*~
